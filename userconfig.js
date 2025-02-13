@@ -150,9 +150,7 @@ const default_config = {
               icon: "brand-linktree",
               icon_color: palette.blue,
             },
-        },
-      ],
-    },
+          }   
     {
       name: "chi ll",
       background_url: "src/img/banners/cbg-08.gif",
